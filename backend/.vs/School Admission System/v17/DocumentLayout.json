@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\School Admission System\\backend\\School Admission System\\",
+  "WorkspaceRootPath": "D:\\School Admission System\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\school admission system\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\school admission system\\migrations\\20261109141810_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:migrations\\20261109141810_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\school admission system\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\school admission system\\controllers\\holdscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:controllers\\holdscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\school admission system\\dtos\\classdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:dtos\\classdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\school admission system\\models\\schoolclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:models\\schoolclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\school admission system\\models\\seathold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:models\\seathold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\school admission system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\school admission system\\school admission system.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\migrations\\20261109141810_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:migrations\\20261109141810_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\controllers\\holdscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:controllers\\holdscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\dtos\\classdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:dtos\\classdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\models\\schoolclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:models\\schoolclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\models\\seathold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:models\\seathold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\school admission system.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:school admission system.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\school admission system\\school admission system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\school admission system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:school admission system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\school admission system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -54,67 +54,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ClassDto.cs",
-              "DocumentMoniker": "D:\\School Admission System\\backend\\School Admission System\\DTOs\\ClassDto.cs",
+              "DocumentMoniker": "D:\\School Admission System\\backend\\DTOs\\ClassDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ClassDto.cs",
-              "ToolTip": "D:\\School Admission System\\backend\\School Admission System\\DTOs\\ClassDto.cs",
+              "ToolTip": "D:\\School Admission System\\backend\\DTOs\\ClassDto.cs",
               "RelativeToolTip": "DTOs\\ClassDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T09:20:20.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T09:20:20.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\School Admission System\\backend\\School Admission System\\Program.cs",
+              "DocumentMoniker": "D:\\School Admission System\\backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\School Admission System\\backend\\School Admission System\\Program.cs",
+              "ToolTip": "D:\\School Admission System\\backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T09:02:34.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SeatHold.cs",
-              "DocumentMoniker": "D:\\School Admission System\\backend\\School Admission System\\Models\\SeatHold.cs",
+              "DocumentMoniker": "D:\\School Admission System\\backend\\Models\\SeatHold.cs",
               "RelativeDocumentMoniker": "Models\\SeatHold.cs",
-              "ToolTip": "D:\\School Admission System\\backend\\School Admission System\\Models\\SeatHold.cs",
+              "ToolTip": "D:\\School Admission System\\backend\\Models\\SeatHold.cs",
               "RelativeToolTip": "Models\\SeatHold.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T08:47:47.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T08:47:47.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SchoolClass.cs",
-              "DocumentMoniker": "D:\\School Admission System\\backend\\School Admission System\\Models\\SchoolClass.cs",
+              "DocumentMoniker": "D:\\School Admission System\\backend\\Models\\SchoolClass.cs",
               "RelativeDocumentMoniker": "Models\\SchoolClass.cs",
-              "ToolTip": "D:\\School Admission System\\backend\\School Admission System\\Models\\SchoolClass.cs",
+              "ToolTip": "D:\\School Admission System\\backend\\Models\\SchoolClass.cs",
               "RelativeToolTip": "Models\\SchoolClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T08:46:48.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T08:46:48.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\School Admission System\\backend\\School Admission System\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "D:\\School Admission System\\backend\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "D:\\School Admission System\\backend\\School Admission System\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\School Admission System\\backend\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,63 +120,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HoldsController.cs",
-              "DocumentMoniker": "D:\\School Admission System\\backend\\School Admission System\\Controllers\\HoldsController.cs",
+              "DocumentMoniker": "D:\\School Admission System\\backend\\Controllers\\HoldsController.cs",
               "RelativeDocumentMoniker": "Controllers\\HoldsController.cs",
-              "ToolTip": "D:\\School Admission System\\backend\\School Admission System\\Controllers\\HoldsController.cs",
+              "ToolTip": "D:\\School Admission System\\backend\\Controllers\\HoldsController.cs",
               "RelativeToolTip": "Controllers\\HoldsController.cs",
               "ViewState": "AgIAALwAAAAAAAAAAAAAALwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T09:32:52.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T09:32:52.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassesController.cs",
+              "DocumentMoniker": "D:\\School Admission System\\backend\\Controllers\\ClassesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClassesController.cs",
+              "ToolTip": "D:\\School Admission System\\backend\\Controllers\\ClassesController.cs",
+              "RelativeToolTip": "Controllers\\ClassesController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwDMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T09:21:19.068Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ClassesController.cs",
-              "DocumentMoniker": "D:\\School Admission System\\backend\\School Admission System\\Controllers\\ClassesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ClassesController.cs",
-              "ToolTip": "D:\\School Admission System\\backend\\School Admission System\\Controllers\\ClassesController.cs",
-              "RelativeToolTip": "Controllers\\ClassesController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAuwDMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T09:21:19.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "20261109141810_InitialCreate.cs",
-              "DocumentMoniker": "D:\\School Admission System\\backend\\School Admission System\\Migrations\\20261109141810_InitialCreate.cs",
+              "DocumentMoniker": "D:\\School Admission System\\backend\\Migrations\\20261109141810_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20261109141810_InitialCreate.cs",
-              "ToolTip": "D:\\School Admission System\\backend\\School Admission System\\Migrations\\20261109141810_InitialCreate.cs",
+              "ToolTip": "D:\\School Admission System\\backend\\Migrations\\20261109141810_InitialCreate.cs",
               "RelativeToolTip": "Migrations\\20261109141810_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T14:18:11.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T14:18:11.53Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "School Admission System.http",
-              "DocumentMoniker": "D:\\School Admission System\\backend\\School Admission System\\School Admission System.http",
+              "DocumentMoniker": "D:\\School Admission System\\backend\\School Admission System.http",
               "RelativeDocumentMoniker": "School Admission System.http",
-              "ToolTip": "D:\\School Admission System\\backend\\School Admission System\\School Admission System.http",
+              "ToolTip": "D:\\School Admission System\\backend\\School Admission System.http",
               "RelativeToolTip": "School Admission System.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-11-09T16:21:26.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T16:21:26.458Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\School Admission System\\backend\\School Admission System\\appsettings.json",
+              "DocumentMoniker": "D:\\School Admission System\\backend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\School Admission System\\backend\\School Admission System\\appsettings.json",
+              "ToolTip": "D:\\School Admission System\\backend\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -189,9 +182,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "School Admission System.csproj",
-              "DocumentMoniker": "D:\\School Admission System\\backend\\School Admission System\\School Admission System.csproj",
+              "DocumentMoniker": "D:\\School Admission System\\backend\\School Admission System.csproj",
               "RelativeDocumentMoniker": "School Admission System.csproj",
-              "ToolTip": "D:\\School Admission System\\backend\\School Admission System\\School Admission System.csproj",
+              "ToolTip": "D:\\School Admission System\\backend\\School Admission System.csproj",
               "RelativeToolTip": "School Admission System.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
