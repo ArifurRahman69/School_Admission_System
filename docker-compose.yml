@@ -2,13 +2,14 @@ version: '3.8'
 
 services:
   db:
-    image: postgres:latest
+    image: postgres:16-alpine
     container_name: school_db
     restart: always
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: mysecretpassword
       POSTGRES_DB: school_admission_db
+      PGDATA: /var/lib/postgresql/data/pgdata
     ports:
       - "5432:5432"
     volumes:
@@ -18,6 +19,7 @@ services:
       interval: 5s
       timeout: 5s
       retries: 5
+      start_period: 10s
 
   backend:
     build:
