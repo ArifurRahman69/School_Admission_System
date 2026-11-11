@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\School Admission System\\backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|d:\\school admission system\\backend\\models\\seathold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B3C005E-ED32-4808-82CC-E0BB49883DF5}|School Admission System.csproj|solutionrelative:models\\seathold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ClassesController.cs",
+              "DocumentMoniker": "D:\\School Admission System\\backend\\Controllers\\ClassesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClassesController.cs",
+              "ToolTip": "D:\\School Admission System\\backend\\Controllers\\ClassesController.cs",
+              "RelativeToolTip": "Controllers\\ClassesController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T13:39:11.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SchoolClass.cs",
               "DocumentMoniker": "D:\\School Admission System\\backend\\Models\\SchoolClass.cs",
               "RelativeDocumentMoniker": "Models\\SchoolClass.cs",
@@ -38,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SeatHold.cs",
               "DocumentMoniker": "D:\\School Admission System\\backend\\Models\\SeatHold.cs",
               "RelativeDocumentMoniker": "Models\\SeatHold.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\School Admission System\\backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
