@@ -7,7 +7,6 @@ function MyHolds() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
 
-  // Fetching applications based on the student's ID
   const fetchMyHolds = async () => {
     if (studentId.length !== 17) {
       alert("Please enter a valid 17-digit student ID!");
@@ -23,17 +22,13 @@ function MyHolds() {
       });
       setHolds(response.data);
     } catch (err) {
-      setError(
-        err.response?.data?.message ||
-          "Error fetching data! / Failed to retrieve information!",
-      );
+      setError(err.response?.data?.message || "Error fetching details!");
       console.error(err);
     } finally {
       setLoading(false);
     }
   };
 
-  // Confirm seat (Admission)
   const handleConfirm = async (holdId) => {
     try {
       await api.post(
@@ -43,12 +38,12 @@ function MyHolds() {
           headers: { "X-Student-Id": studentId },
         },
       );
-      alert("Congratulations! Your admission is complete (CONFIRMED)");
-      fetchMyHolds(); // Refreshing the list to show status updates.
+      alert("Congratulations! Your admission is CONFIRMED.");
+      fetchMyHolds();
     } catch (err) {
       alert(
         err.response?.data?.message ||
-          "Failed to confirm admission or the session has expired!",
+          "Error confirming admission or time expired!",
       );
     }
   };
@@ -98,10 +93,9 @@ function MyHolds() {
         </button>
       </div>
 
-      {loading && <p>Loadinggg...</p>}
+      {loading && <p>Loading...</p>}
       {error && <p style={{ color: "red" }}>{error}</p>}
 
-      {/* Apply list */}
       {holds.length > 0 && (
         <table
           style={{
@@ -123,6 +117,10 @@ function MyHolds() {
                 Class
               </th>
               <th style={{ padding: "10px", border: "1px solid #ddd" }}>
+                Hold ID (Tracking No)
+              </th>{" "}
+              {/* Add new column */}
+              <th style={{ padding: "10px", border: "1px solid #ddd" }}>
                 Status
               </th>
               <th style={{ padding: "10px", border: "1px solid #ddd" }}>
@@ -138,6 +136,17 @@ function MyHolds() {
               <tr key={hold.holdId}>
                 <td style={{ padding: "10px", border: "1px solid #ddd" }}>
                   {hold.className}
+                </td>
+                {/* Hold ID  */}
+                <td
+                  style={{
+                    padding: "10px",
+                    border: "1px solid #ddd",
+                    fontSize: "12px",
+                    color: "#555",
+                  }}
+                >
+                  {hold.holdId}
                 </td>
                 <td
                   style={{
