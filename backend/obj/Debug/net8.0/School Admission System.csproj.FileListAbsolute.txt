@@ -218,7 +218,6 @@ D:\School Admission System\backend\obj\Debug\net8.0\staticwebassets.build.json
 D:\School Admission System\backend\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\School Admission System\backend\obj\Debug\net8.0\staticwebassets.development.json
 D:\School Admission System\backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\School Admission System\backend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\School Admission System\backend\obj\Debug\net8.0\School A.19359C39.Up2Date
 D:\School Admission System\backend\obj\Debug\net8.0\School Admission System.dll
 D:\School Admission System\backend\obj\Debug\net8.0\refint\School Admission System.dll
